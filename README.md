@@ -1,7 +1,6 @@
 # Parcial Final Desarrollo
  
-I.	(Valor 10%) Realizar la Base de Datos: sobre el manejo de una bodega en SQLServer e ingresar 4 registros a la tabla Fabricantes y 10 a tabla Artículos, mediante un script. Tiempo estimado 5 min.
-
+I.	(Valor 10%) Realizar la Base de Datos: sobre el manejo de una bodega en SQLServer e ingresar 4 registros a la tabla Fabricantes y 10 a tabla Artículos, mediante un script.
    
 Crear una aplicación Web con los siguientes requerimientos:
 1,	(Valor 10%) Crear una página HTML (Maestra o principal) que permita el ingreso a las páginas: Ventas, DetalleDB, Consulta, Nomina y Actualizar.
